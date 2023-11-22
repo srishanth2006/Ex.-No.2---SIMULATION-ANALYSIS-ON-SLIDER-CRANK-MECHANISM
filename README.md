@@ -29,20 +29,7 @@
 ![WhatsApp Image 2023-11-21 at 19 41 28_ce7b776b](https://github.com/srishanth2006/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150319470/236f758c-ec59-426f-9714-2d446eeb83fa)
 
 
-## Velocity diagram
-###  Scale: 10 m/s = 100 mm (say) 
-###  1. The fixed point C appears as a stationary point in the velocity diagram 
-###  2. Draw the vector bc of length 100 mm, perpendicular to the crank CB from the configuration diagram 
-###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
-###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 
 
