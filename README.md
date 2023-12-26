@@ -23,11 +23,6 @@
 ###  2. At C, draw CB of length 20 mm inclined at 1200 
 ###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
 
-![WhatsApp Image 2023-11-21 at 19 41 29_b3bf8d76](https://github.com/srishanth2006/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150319470/6188b582-82fd-4ff2-9a2b-535369613f5a)
-
-
-![WhatsApp Image 2023-11-21 at 19 41 28_ce7b776b](https://github.com/srishanth2006/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/150319470/236f758c-ec59-426f-9714-2d446eeb83fa)
-
 
 
 
